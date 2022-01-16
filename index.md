@@ -1,11 +1,11 @@
-## Velkommen til Academy's Quiz-sider
+## Velkommen til Academys Quiz-sider
 
 ### Git quiz
 
 #### Spørsmål 1
 <details> 
   <summary>
-    Hva betyr git?  
+    Hva betyr git?  <br />
     
 A) Ingenting  
 B) Global Information Technology  
