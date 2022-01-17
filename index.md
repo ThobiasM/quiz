@@ -27,3 +27,15 @@ D) git commit
   </summary>
    C: git clone
 </details>
+
+<details> 
+  <summary>
+    Hvilken kommando brukes for å bytte branch?  
+    
+A) git push  
+B) git switch  
+C) git clone  
+D) git commit  
+  </summary>
+   B: git switch
+</details>
